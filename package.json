@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
   "scripts": {
-    "test": "exit(0)",
+    "test": "echo no tests specified && exit 1",
     "build": "aegir-build node",
     "lint": "aegir-lint",
     "release": "aegir-release node",
